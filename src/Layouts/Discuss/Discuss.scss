@@ -1,0 +1,65 @@
+.discuss-title {
+  color: #242d52;
+  text-align: center;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px; /* 110% */
+  letter-spacing: -0.714px;
+  margin-bottom: 100px;
+}
+
+.dis-card {
+  max-width: 100%;
+  width: 440px;
+  height: 220px;
+  flex-shrink: 0;
+  background: #fafafa;
+  position: relative;
+  padding: 40px 20px 0 20px;
+}
+
+.img {
+  display: block;
+  margin: 0 auto;
+  position: absolute;
+  top: -15%;
+  left: 42%;
+}
+.dis-card-title {
+  color: #242d52;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.286px;
+  margin-top: 40px;
+}
+
+.dis-card-desc {
+  color: #242d52;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  opacity: 0.5025;
+  margin-top: 19px;
+}
+
+.cards-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  justify-content: center;
+}
+
+.for_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 48px;
+  margin-bottom: 161px;
+}

@@ -1,0 +1,40 @@
+.wrapper {
+  height: 70vh;
+  display: flex;
+}
+
+.left {
+  max-width: 465px;
+  width: 100%;
+  margin-top: 150px;
+}
+
+.left-title {
+  color: #242d52;
+  font-family: "Be Vietnam Pro";
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+
+.left-desc {
+  color: #242d52;
+  font-family: "Be Vietnam Pro";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  margin-top: 18px;
+  opacity: 0.5;
+  margin-bottom: 40px;
+}
+
+.right {
+  display: flex;
+  flex-wrap: wrap;
+  width: 540px;
+  align-items: center;
+  justify-content: space-between;
+}/*# sourceMappingURL=Intro.css.map */

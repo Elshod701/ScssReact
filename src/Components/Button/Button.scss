@@ -1,0 +1,17 @@
+#reusable_button {
+  color: #fcf6f5;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #f3603c;
+  border: none;
+  padding: 15px 38px;
+  border-radius: 22px;
+
+  &:hover {
+    background: #c22903;
+  }
+}
